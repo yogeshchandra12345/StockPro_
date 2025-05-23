@@ -11,8 +11,8 @@ _Last updated: **23 May 2025**_
 
 | Data                                   | Purpose                                               | Retention                     |
 |----------------------------------------|-------------------------------------------------------|-------------------------------|
-| **E-mail address & Mobile** (signup)   | Account creation, password reset, personalised greet  | Until you delete your account |
-| **Session token**                      | Keeps you logged in                                   | 1 day (auto-expire)         |
+| **E-mail address & Mobile** (signup) | Account creation, password reset, personalised greet  | Until you delete your account |
+| **Session token**                      | Keeps you logged in                                   | 30 days (auto-expire)         |
 | **Watch-lists & alerts**               | Sync across devices                                   | Until you delete them         |
 | **Device info** (Android version, etc) | Crash diagnostics & analytics                         | 24 months                     |
 | **Firebase Installation ID**           | Push notifications                                    | Rotated on reinstall          |
@@ -38,8 +38,6 @@ We **do not** collect SMS, contacts, photos, precise location, or portfolio bala
 
 ### 1.5 Contact  
 **Data Controller:** StockPro Technologies Pvt Ltd  
-E-mail: **compliance@stockpro.app**
-
 ---
 
 ## 2. Terms & Conditions
@@ -75,4 +73,4 @@ By using StockPro you acknowledge that any trading or investment decisions are m
 
 ---
 
-© 2025 Yoanalytics.ai
+© 2025 StockPro Technologies Private Limited
