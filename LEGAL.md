@@ -37,7 +37,7 @@ We **do not** collect SMS, contacts, photos, precise location, or portfolio bala
 * **Opt-out of analytics** in *Settings → Privacy* (app restart required).  
 
 ### 1.5 Contact  
-**Data Controller:** StockPro Technologies Pvt Ltd  
+**Data Controller:** Yoanalytics.ai
 ---
 
 ## 2. Terms & Conditions
@@ -73,4 +73,4 @@ By using StockPro you acknowledge that any trading or investment decisions are m
 
 ---
 
-© 2025 StockPro Technologies Private Limited
+© 2025 Yoanalytics.ai
