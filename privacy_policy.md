@@ -86,8 +86,8 @@ We may update this policy. All changes will appear here with a new “Effective 
 
 For questions or concerns, email us at:
 
-📧 **support@stockpro.app**
+📧 **yogesh@yoanalytics.ai**
 
 ---
 
-> Last updated: 22 May 2025
+> Last updated: 26 May 2025
