@@ -86,7 +86,7 @@ We may update this policy. All changes will appear here with a new “Effective 
 
 For questions or concerns, email us at:
 
-📧 **yogesh@yoanalytics.ai**
+📧 **contacts@yoanalytics.ai**
 
 ---
 
