@@ -72,5 +72,8 @@ All charts, signals, and data are provided **for informational and educational p
 By using StockPro you acknowledge that any trading or investment decisions are made **solely at your own risk**, and you agree that StockPro, its owners, employees, and partners shall **not be liable** for any losses or damages arising from the use of information provided.
 
 ---
+## Contact Us
 
-© 2025 Yoanalytics.ai
+For questions or concerns, email us at:
+
+📧 **contacts@yoanalytics.ai**
