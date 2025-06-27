@@ -1,4 +1,4 @@
-# StockPro – Legal Documents
+# StockPro
 _Last updated: **23 May 2025**_
 
 ---
