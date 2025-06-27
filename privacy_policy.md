@@ -1,93 +1,79 @@
-# Privacy Policy for StockPro
-
-**Effective Date:** 22 May 2025
-
-StockPro (“we”, “us”, or “our”) is an Android application that provides curated stock market signals, charts, and analytics. Your privacy is important to us. This Privacy Policy explains what data we collect, how we use it, and your choices.
+# StockPro
+_Last updated: **23 May 2025**_
 
 ---
 
-## 1. Information We Collect
+## 1. Privacy Policy
 
-### 1.1 Non-Personal Device Data
-- **Device model & OS version**: to optimize compatibility and diagnose issues.
-- **App version**: to ensure you’re running the latest features and fixes.
-- **Crash reports & analytics** (optional, if enabled): helps us improve stability and the user experience.
+> **Quick summary:** we collect only the data needed to run StockPro and never sell it.
 
-> **We do not** collect your name, email address, phone number, or any other directly identifiable personal data.
+### 1.1 Information we collect
 
-### 1.2 Financial Data Queries
-- **Stock symbols & timeframes**: the tickers and date ranges you request when viewing charts.
-- **Feature usage**: which screens or signals you view most often.
+| Data                                   | Purpose                                               | Retention                     |
+|----------------------------------------|-------------------------------------------------------|-------------------------------|
+| **E-mail address & Mobile** (signup) | Account creation, password reset, personalised greet  | Until you delete your account |
+| **Session token**                      | Keeps you logged in                                   | 30 days (auto-expire)         |
+| **Watch-lists & alerts**               | Sync across devices                                   | Until you delete them         |
+| **Device info** (Android version, etc) | Crash diagnostics & analytics                         | 24 months                     |
+| **Firebase Installation ID**           | Push notifications                                    | Rotated on reinstall          |
 
-All financial queries are used **solely** to retrieve and display data back to you. We do **not** store these queries in a personally identifiable way.
+We **do not** collect SMS, contacts, photos, precise location, or portfolio balances.
+
+### 1.2 How we use the information
+* Provide core functionality (signal cards, charts, alerts).  
+* Improve product features via aggregated analytics.  
+* Safeguard the service by detecting fraud and abuse.  
+
+### 1.3 Third-party SDKs
+
+| SDK                       | Use                          | Link                                              |
+|---------------------------|------------------------------|---------------------------------------------------|
+| **Firebase Analytics / Crashlytics** | Usage metrics, crash reports | <https://firebase.google.com/support/privacy> |
+| **Google Play Billing**              | In-app purchases              | <https://support.google.com/googleplay/answer/2851610> |
+
+### 1.4 Your rights
+* **Access / rectify** your data from *Settings → Account*.  
+* **Delete account** at any time (data purged within 30 days).  
+* **Opt-out of analytics** in *Settings → Privacy* (app restart required).  
+
+### 1.5 Contact  
+**Data Controller:** Yoanalytics.ai
+---
+
+## 2. Terms & Conditions
+
+### 2.1 License
+StockPro grants you a **personal, non-exclusive, non-transferable** licence to use the app for **educational and research purposes** only.
+
+### 2.2 Prohibited use
+* Redistribution, resale, or white-labelling of our content.  
+* Reverse-engineering, scraping, or bulk-downloading.  
+* Use of the app to violate any applicable laws or regulations.  
+
+### 2.3 Intellectual property
+All trademarks, logos, and proprietary algorithms are owned by StockPro and protected under Indian and international law.
+
+### 2.4 Liability disclaimer
+The app is provided **“as is”** without warranties of any kind. In no event shall StockPro or its contributors be liable for any direct, indirect, or consequential damages exceeding **INR 10,000**, whether in contract, tort, or otherwise.
+
+### 2.5 Governing law & dispute resolution
+These Terms are governed by the laws of **India**. Any disputes shall be subject to the exclusive jurisdiction of the courts of **Delhi, India**.
 
 ---
 
-## 2. How We Use Information
+## 3. Disclaimer & Risk Disclosure
 
-- **Deliver real-time market data** and charts.
-- **Analyze usage patterns** (if enabled) to improve signal algorithms and UX.
-- **Support & troubleshooting**—we may ask you to share a crash report or logs with us, but only if you opt in.
+StockPro is **not registered** with the Securities and Exchange Board of India (SEBI) as an Investment Adviser (IA) or Research Analyst (RA).
 
----
+All charts, signals, and data are provided **for informational and educational purposes only**. They **do not** constitute financial advice, trading recommendations, or an offer to buy or sell any security. Past performance is **not** indicative of future results.
 
-## 3. Data Sharing & Disclosure
+> **Risk Warning:** Investments in securities markets are subject to market risks. Read all related documents carefully before investing. Consult a SEBI-registered financial professional before making investment decisions.
 
-- We do **not** sell or rent your personal information.
-- We do **not** share your usage data with advertisers.
-- We may share aggregated, anonymized analytics with our development team or trusted partners—**no individual user** can be identified from these reports.
+By using StockPro you acknowledge that any trading or investment decisions are made **solely at your own risk**, and you agree that StockPro, its owners, employees, and partners shall **not be liable** for any losses or damages arising from the use of information provided.
 
 ---
-
-## 4. Third-Party Services
-
-StockPro uses these services, which have their own privacy policies:
-
-- **Firebase Crashlytics** (for crash reports, optional)
-- **Google Analytics for Firebase** (for anonymized usage metrics, optional)
-- **Stock market data APIs** (to fetch price & chart data)
-
----
-
-## 5. Data Retention
-
-- Crash reports & analytics (if enabled) are retained by Firebase according to their policies.
-- Financial queries and chart data are not stored long-term by StockPro; they’re fetched fresh each time.
-
----
-
-## 6. Security
-
-- We use industry-standard encryption (HTTPS/TLS) for all network requests.
-- Sensitive API keys are stored securely in your app’s configuration, never in plain text.
-
----
-
-## 7. Children’s Privacy
-
-StockPro is not directed at children under 13, and we do not knowingly collect data from minors.
-
----
-
-## 8. Your Controls
-
-- **Crash Reporting & Analytics**: You can enable/disable these in Settings → Privacy.
-- **Clear local cache**: Go to Settings → Storage to erase any saved chart images or queries.
-
----
-
-## 9. Changes to This Policy
-
-We may update this policy. All changes will appear here with a new “Effective Date.”
-
----
-
-## 10. Contact Us
+## Contact Us
 
 For questions or concerns, email us at:
 
 📧 **contacts@yoanalytics.ai**
-
----
-
-> Last updated: 26 May 2025
