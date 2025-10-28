@@ -90,24 +90,11 @@ By using StockPro you acknowledge that any trading or investment decisions are m
 
 ---
 
-## 4. Business Registration & Compliance
-
-**YoAnalytics** is officially registered as a **Micro Enterprise (Services)** under the Ministry of Micro, Small & Medium Enterprises (MSME), Government of India.
-
-- **UDYAM Registration Number:** UDYAM-HR-05-0162228   
-- **Enterprise Type:** Micro (Services)  
-- **Business Activities:** Computer programming, consultancy, financial data analytics, and information services.  
-
-This registration affirms that **YoAnalytics** operates as a recognized MSME entity under Indian law.
-
----
-
 ## 5. Contact Us
 
 For questions or concerns, please contact us at:
 
 📧 **contacts@yoanalytics.ai**  
-🏢 **YoAnalytics (UDYAM-HR-05-0162228)**, Gurugram, Haryana, India  
 🌐 **https://yoanalytics.ai**
 
 ---
