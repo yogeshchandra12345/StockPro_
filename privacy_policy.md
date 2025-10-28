@@ -96,9 +96,6 @@ By using StockPro you acknowledge that any trading or investment decisions are m
 **YoAnalytics** is officially registered as a **Micro Enterprise (Services)** under the Ministry of Micro, Small & Medium Enterprises (MSME), Government of India.
 
 - **UDYAM Registration Number:** UDYAM-HR-05-0162228  
-- **Date of Registration:** 19 October 2025  
-- **Date of Incorporation:** 15 October 2025  
-- **Registered Address:** I-14B, Smartworld Orchard, Sector 61, Golf Course Extension Road, Gurugram, Haryana – 122102  
 - **Enterprise Type:** Micro (Services)  
 - **Business Activities:** Computer programming, consultancy, financial data analytics, and information services.  
 
