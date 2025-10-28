@@ -90,3 +90,7 @@ For questions or concerns, please contact us at:
 
 📧 **contacts@yoanalytics.ai**  
 🌐 **https://yoanalytics.ai**
+
+---
+
+© 2025 **YoAnalytics** — All Rights Reserved.
