@@ -37,13 +37,6 @@ We **do not** collect SMS, contacts, photos, precise location, or portfolio bala
 
 ---
 
-### 1.4 Your rights
-* **Access / rectify** your data from *Settings → Account*.  
-* **Delete account** at any time (data purged within 30 days).  
-* **Opt-out of analytics** in *Settings → Privacy* (app restart required).  
-
----
-
 ### 1.5 Data Controller  
 
 **Data Controller:**  
