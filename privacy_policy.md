@@ -37,7 +37,7 @@ We **do not** collect SMS, contacts, photos, precise location, or portfolio bala
 
 ---
 
-### 1.5 Data Controller  
+### 1.4 Data Controller  
 
 **Data Controller:**  
 **YoAnalytics (UDYAM-HR-05-0162228)**  
