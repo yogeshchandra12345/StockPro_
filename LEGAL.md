@@ -1,17 +1,17 @@
 # StockPro
-_Last updated: **23 May 2025**_
+_Last updated: **28 October 2025**_
 
 ---
 
 ## 1. Privacy Policy
 
-> **Quick summary:** we collect only the data needed to run StockPro and never sell it.
+> **Quick summary:** We collect only the data needed to run StockPro and never sell it.
 
 ### 1.1 Information we collect
 
 | Data                                   | Purpose                                               | Retention                     |
 |----------------------------------------|-------------------------------------------------------|-------------------------------|
-| **E-mail address & Mobile** (signup) | Account creation, password reset, personalised greet  | Until you delete your account |
+| **E-mail address & Mobile** (signup)   | Account creation, password reset, personalised greet  | Until you delete your account |
 | **Session token**                      | Keeps you logged in                                   | 30 days (auto-expire)         |
 | **Watch-lists & alerts**               | Sync across devices                                   | Until you delete them         |
 | **Device info** (Android version, etc) | Crash diagnostics & analytics                         | 24 months                     |
@@ -19,25 +19,39 @@ _Last updated: **23 May 2025**_
 
 We **do not** collect SMS, contacts, photos, precise location, or portfolio balances.
 
+---
+
 ### 1.2 How we use the information
 * Provide core functionality (signal cards, charts, alerts).  
 * Improve product features via aggregated analytics.  
 * Safeguard the service by detecting fraud and abuse.  
 
+---
+
 ### 1.3 Third-party SDKs
 
-| SDK                       | Use                          | Link                                              |
-|---------------------------|------------------------------|---------------------------------------------------|
-| **Firebase Analytics / Crashlytics** | Usage metrics, crash reports | <https://firebase.google.com/support/privacy> |
+| SDK                                  | Use                          | Link                                              |
+|-------------------------------------|------------------------------|---------------------------------------------------|
+| **Firebase Analytics / Crashlytics** | Usage metrics, crash reports | <https://firebase.google.com/support/privacy>     |
 | **Google Play Billing**              | In-app purchases              | <https://support.google.com/googleplay/answer/2851610> |
+
+---
 
 ### 1.4 Your rights
 * **Access / rectify** your data from *Settings → Account*.  
 * **Delete account** at any time (data purged within 30 days).  
 * **Opt-out of analytics** in *Settings → Privacy* (app restart required).  
 
-### 1.5 Contact  
-**Data Controller:** Yoanalytics.ai
+---
+
+### 1.5 Data Controller  
+
+**Data Controller:**  
+**YoAnalytics (UDYAM-HR-05-0162228)**  
+Registered MSME under the Ministry of Micro, Small & Medium Enterprises (MSME), Government of India.  
+**Registered Address:** I-14B, Smartworld Orchard, Sector 61, Golf Course Extension Road, Gurugram, Haryana – 122102.  
+**Email:** contacts@yoanalytics.ai  
+
 ---
 
 ## 2. Terms & Conditions
@@ -51,13 +65,15 @@ StockPro grants you a **personal, non-exclusive, non-transferable** licence to u
 * Use of the app to violate any applicable laws or regulations.  
 
 ### 2.3 Intellectual property
-All trademarks, logos, and proprietary algorithms are owned by StockPro and protected under Indian and international law.
+All trademarks, logos, and proprietary algorithms are owned by **StockPro / YoAnalytics** and protected under Indian and international law.
 
 ### 2.4 Liability disclaimer
-The app is provided **“as is”** without warranties of any kind. In no event shall StockPro or its contributors be liable for any direct, indirect, or consequential damages exceeding **INR 10,000**, whether in contract, tort, or otherwise.
+The app is provided **“as is”** without warranties of any kind.  
+In no event shall StockPro, YoAnalytics, or its contributors be liable for any direct, indirect, or consequential damages exceeding **INR 10,000**, whether in contract, tort, or otherwise.
 
 ### 2.5 Governing law & dispute resolution
-These Terms are governed by the laws of **India**. Any disputes shall be subject to the exclusive jurisdiction of the courts of **Delhi, India**.
+These Terms are governed by the laws of **India**.  
+Any disputes shall be subject to the exclusive jurisdiction of the courts of **Delhi, India**.
 
 ---
 
@@ -65,15 +81,36 @@ These Terms are governed by the laws of **India**. Any disputes shall be subject
 
 StockPro is **not registered** with the Securities and Exchange Board of India (SEBI) as an Investment Adviser (IA) or Research Analyst (RA).
 
-All charts, signals, and data are provided **for informational and educational purposes only**. They **do not** constitute financial advice, trading recommendations, or an offer to buy or sell any security. Past performance is **not** indicative of future results.
+All charts, signals, and data are provided **for informational and educational purposes only**.  
+They **do not** constitute financial advice, trading recommendations, or an offer to buy or sell any security.  
+Past performance is **not** indicative of future results.
 
 > **Risk Warning:** Investments in securities markets are subject to market risks. Read all related documents carefully before investing. Consult a SEBI-registered financial professional before making investment decisions.
 
 By using StockPro you acknowledge that any trading or investment decisions are made **solely at your own risk**, and you agree that StockPro, its owners, employees, and partners shall **not be liable** for any losses or damages arising from the use of information provided.
 
 ---
-## Contact Us
 
-For questions or concerns, email us at:
+## 4. Business Registration & Compliance
 
-📧 **contacts@yoanalytics.ai**
+**YoAnalytics** is officially registered as a **Micro Enterprise (Services)** under the Ministry of Micro, Small & Medium Enterprises (MSME), Government of India.
+
+- **UDYAM Registration Number:** UDYAM-HR-05-0162228   
+- **Enterprise Type:** Micro (Services)  
+- **Business Activities:** Computer programming, consultancy, financial data analytics, and information services.  
+
+This registration affirms that **YoAnalytics** operates as a recognized MSME entity under Indian law.
+
+---
+
+## 5. Contact Us
+
+For questions or concerns, please contact us at:
+
+📧 **contacts@yoanalytics.ai**  
+🏢 **YoAnalytics (UDYAM-HR-05-0162228)**, Gurugram, Haryana, India  
+🌐 **https://yoanalytics.ai**
+
+---
+
+© 2025 **YoAnalytics** — All Rights Reserved.
