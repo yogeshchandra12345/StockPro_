@@ -40,9 +40,7 @@ We **do not** collect SMS, contacts, photos, precise location, or portfolio bala
 ### 1.4 Data Controller  
 
 **Data Controller:**  
-**YoAnalytics (UDYAM-HR-05-0162228)**  
-Registered MSME under the Ministry of Micro, Small & Medium Enterprises (MSME), Government of India.  
-**Registered Address:** I-14B, Smartworld Orchard, Sector 61, Golf Course Extension Road, Gurugram, Haryana – 122102.  
+**YoAnalytics **  
 **Email:** contacts@yoanalytics.ai  
 
 ---
