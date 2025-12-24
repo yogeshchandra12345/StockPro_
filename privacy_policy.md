@@ -87,7 +87,7 @@ By using StockPro you acknowledge that any trading or investment decisions are m
 
 For questions or concerns, please contact us at:
 
-📧 **contacts@yoanalytics.ai**  
+📧 **yogesh.chandra.iitbhu@gmail.com**  
 🌐 **https://yoanalytics.ai**
 
 ---
