@@ -1,5 +1,5 @@
 # StockPro
-_Last updated: **28 October 2025**_
+_Last updated: **24 December 2025**_
 
 ---
 
@@ -60,7 +60,7 @@ All trademarks, logos, and proprietary algorithms are owned by StockPro and prot
 
 ### 2.4 Liability disclaimer
 The app is provided **“as is”** without warranties of any kind.  
-In no event shall StockPro or its contributors be liable for any direct, indirect, or consequential damages exceeding **INR 10,000**, whether in contract, tort, or otherwise.
+In no event shall StockPro or its contributors be liable for any direct, indirect, or consequential damages to the maximum extent permitted by applicable law, whether in contract, tort, or otherwise.
 
 ### 2.5 Governing law & dispute resolution
 These Terms are governed by the laws of **India**.  
@@ -71,6 +71,7 @@ Any disputes shall be subject to the exclusive jurisdiction of the courts of **D
 ## 3. Disclaimer & Risk Disclosure
 
 StockPro is **not registered** with the Securities and Exchange Board of India (SEBI) as an Investment Adviser (IA) or Research Analyst (RA).
+StockPro does not execute trades, provide brokerage services, or facilitate buying or selling of securities on any exchange.
 
 All charts, signals, and data are provided **for informational and educational purposes only**.  
 They **do not** constitute financial advice, trading recommendations, or an offer to buy or sell any security.  
