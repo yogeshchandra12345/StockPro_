@@ -18,7 +18,7 @@ StockPro collects only the minimum data required to operate the app. We do **not
 | **Email address & mobile number** | Account creation, authentication, support | Until account deletion |
 | **Session tokens** | Login & security | 30 days (auto-expire) |
 | **Watchlists & alerts** | Sync across devices | Until deleted by user |
-| **Device & app info** (OS, version, crash logs) | Analytics & diagnostics | Up to 24 months |
+| **Device & app info** (OS, app version, crash diagnostics, installation identifiers) | App functionality, security, analytics & diagnostics | Up to 24 months |
 | **Firebase Installation ID** | Push notifications | Reset on reinstall |
 
 We **do not collect** SMS, contacts, photos, precise location, brokerage credentials, or portfolio balances.
@@ -65,15 +65,21 @@ Third-party services process data under their own privacy policies.
 
 ---
 
-### 1.6 User Rights
+### 1.6 Account Deletion & User Rights
 
 You have the right to:
-- Access, update, or delete your data
-- Delete your account at any time
+- Access, update, or delete your personal data
+- Delete your StockPro account at any time
 - Opt out of non-essential notifications
-- Request support related to data usage
+- Request clarification regarding data usage
 
-Requests can be made by contacting us.
+#### Account Deletion
+To request deletion of your StockPro account and associated data, users can follow the instructions provided at:
+
+https://yoanalytics.ai/stockpro-delete-account
+
+Deletion requests are processed within **7 working days**.  
+Certain minimal logs may be retained for legal or security purposes for up to **90 days**, after which they are automatically deleted.
 
 ---
 
@@ -160,7 +166,9 @@ By using StockPro, you acknowledge that all investment decisions are made **at y
 
 ## 4. Contact Us
 
-**Email:** yogesh.chandra.iitbhu@gmail.com  
+For support, privacy, or data-related requests, contact us at:
+
+**Email:** contacts@yoanalytics.ai
 **Website:** https://yoanalytics.ai
 
 ---
