@@ -1,6 +1,6 @@
 # StockPro – Privacy Policy, Terms of Service & Disclaimer
 
-_Last updated: **24 December 2025**_
+_Last updated: **5th February 2026**_
 
 ---
 
